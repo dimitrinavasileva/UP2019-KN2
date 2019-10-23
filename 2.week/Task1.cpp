@@ -31,7 +31,7 @@ int main()
 	{
 		if (number1 < number2)
 		{
-			if (number3 > number1 && number3 < number2)
+			if (number3 > number1&& number3 < number2)
 			{
 				cout << "Number " << number3 << " is between " << number1 << " and " << number2;
 			}
@@ -42,7 +42,7 @@ int main()
 		}
 		else
 		{ // number1 > number2
-			if (number3 > number2 && number3 < number1)
+			if (number3 > number2&& number3 < number1)
 			{
 				cout << "Number " << number3 << " is between " << number1 << " and " << number2;
 			}

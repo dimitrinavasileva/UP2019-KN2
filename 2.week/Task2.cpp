@@ -21,7 +21,7 @@ int main()
 			cout << a << endl;
 		}
 	}
-	else if (b > c) 
+	else if (b > c)
 	{
 		cout << b << endl;
 	}

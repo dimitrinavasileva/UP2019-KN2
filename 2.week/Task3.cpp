@@ -22,7 +22,7 @@ int main()
 			cout << num1 << " " << num2;
 		}
 		else //num2 < num1
-		{ 
+		{
 			cout << num2 << " " << num1;
 		}
 	}
